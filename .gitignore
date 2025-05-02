@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+
+base_imagenes
+face-env
+archive/
+archive.zip
+*.zip
