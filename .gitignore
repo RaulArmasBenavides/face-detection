@@ -180,3 +180,6 @@ face-env
 archive/
 archive.zip
 *.zip
+
+.vs/
+/vs
